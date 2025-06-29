@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "financialtracker.client", "financialtracker.client\financialtracker.client.esproj", "{B8BD7F1B-4B69-25C4-A39B-38163FB60988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialTracker.Server", "FinancialTracker.Server\FinancialTracker.Server.csproj", "{1C7DD314-F195-44D4-8CC6-0C1E32752F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BD7F1B-4B69-25C4-A39B-38163FB60988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BD7F1B-4B69-25C4-A39B-38163FB60988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BD7F1B-4B69-25C4-A39B-38163FB60988}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8BD7F1B-4B69-25C4-A39B-38163FB60988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BD7F1B-4B69-25C4-A39B-38163FB60988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BD7F1B-4B69-25C4-A39B-38163FB60988}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1C7DD314-F195-44D4-8CC6-0C1E32752F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7DD314-F195-44D4-8CC6-0C1E32752F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7DD314-F195-44D4-8CC6-0C1E32752F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7DD314-F195-44D4-8CC6-0C1E32752F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2EA2698-7658-46DA-9D5F-71BAB7B39E94}
+	EndGlobalSection
+EndGlobal
