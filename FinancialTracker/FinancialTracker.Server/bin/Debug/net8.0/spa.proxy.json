@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:62906",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\daidi\\source\\repos\\daixintheazure\\Q1-2025-software-dev-project-challenge\\FinancialTracker\\FinancialTracker.Server\\..\\financialtracker.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
