@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinancialTracker.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4af8e6f58c74a38c61520c867a23a3f4e66bc7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aa3a6a59cd77f6152b58724152ef768bc9bc3ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinancialTracker.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinancialTracker.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

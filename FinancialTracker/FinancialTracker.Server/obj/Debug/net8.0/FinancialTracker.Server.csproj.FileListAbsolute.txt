@@ -37,3 +37,12 @@ C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challeng
 C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\obj\Debug\net8.0\FinancialTracker.Server.pdb
 C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\obj\Debug\net8.0\FinancialTracker.Server.genruntimeconfig.cache
 C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\obj\Debug\net8.0\ref\FinancialTracker.Server.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daidi\source\repos\daixintheazure\Q1-2025-software-dev-project-challenge\FinancialTracker\FinancialTracker.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
